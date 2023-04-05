@@ -234,7 +234,7 @@
 			}
 		},
 		"typography": {
-			"fontFamily": "var(--wp--preset--font-family--inter)",
+			"fontFamily": "var(--wp--preset--font-family--system-ui)",
 			"fontSize": "var(--wp--preset--font-size--medium)",
 			"lineHeight": "1.7"
 		}
